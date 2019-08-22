@@ -3,4 +3,5 @@
 
 
 ## 学习资源
-[链接](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+* [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+
