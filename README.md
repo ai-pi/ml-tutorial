@@ -3,6 +3,4 @@
 
 
 ## 学习资源
-[链接Liu Mengxian](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
-s
-111
+* [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
