@@ -3,7 +3,7 @@ function [theta, J_history] = gradientDescent(X, y, theta, alpha, iterations)
 m = length(y); 
 J_history = zeros(iterations, 1);
 
-for i = 1:num_iters
+for i = 1:iterations
 
     s=(X*theta-y).*X/m;
     s=(X*theta-y).*X/m;
